@@ -10,8 +10,8 @@ source "https://rubygems.org"
 # Happy Jekylling!
 
 
-gem "github-pages", group: :jekyll_plugins
-gem "jekyll-include-cache", group: :jekyll_plugins
+#gem "github-pages", group: :jekyll_plugins
+#gem "jekyll-include-cache", group: :jekyll_plugins
 gem "wdm", "~> 0.1.0" if Gem.win_platform?
 
 # If you want to use Jekyll native, uncomment the line below.
