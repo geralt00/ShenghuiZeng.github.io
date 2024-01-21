@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/atlaspix3.1
 date: 2023-03-13
 venue: 'SoC'
-paperurl: 'https://pos.sissa.it/420/069/pdf'
+#paperurl: 'https://pos.sissa.it/420/069/pdf'
 ---
 
-[Download paper here](https://pos.sissa.it/420/069/pdf)
+#[Download paper here](https://pos.sissa.it/420/069/pdf)
