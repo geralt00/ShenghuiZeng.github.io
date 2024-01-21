@@ -1,5 +1,5 @@
 ---
-title: "First observation of singly Cabbibo-Supressed decay of $$\\Lambda_c^+\\rightarrow\\Lambda K^{+}\\pi^0$$ and evidence of
+title: "First observation of singly Cabbibo-Suppressed decay of $$\\Lambda_c^+\\rightarrow\\Lambda K^{+}\\pi^0$$ and evidence of
 $$\\Lambda_c^+\\rightarrow\\Lambda K^{+}\\pi^+\\pi^-$$"
 collection: publications
 permalink: /publication/Lc2L+hadron
