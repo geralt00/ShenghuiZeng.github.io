@@ -8,12 +8,19 @@ redirect_from:
   - /about.html
 ---
 
-This is the personal Page. I'am a student who involve in Particle Physics now. My interest in focus on flavour physics and i also engage in some detector development. (short in brief)
+This is the personal Page. I'am a student who involve in Particle Physics now. My interest in focus on flavour physics and i also engage in some detector development.
 
-BESIII experience
+# LHCB EXPERIENCE
+
+- Beauty to open charm
+- CKM angle
+
+BESIII EXPERIENCE
 ======
+- Charmed Baryon
+- Amplitude Analysis
 
-
-CEPC experience
+CEPC EXPERIENCE
 ======
+- Silicon Tracker
 
