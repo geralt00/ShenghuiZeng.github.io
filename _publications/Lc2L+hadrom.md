@@ -5,5 +5,5 @@ collection: publications
 permalink: /publication/Lc2L+hadron
 date: 2024-1-29
 venue: 'Physics Review D'
-paperurl: '[arXiv](https://arxiv.org/pdf/2311.12903.pdf)'
+#paperurl: '[arXiv](https://arxiv.org/pdf/2311.12903.pdf)'
 ---
