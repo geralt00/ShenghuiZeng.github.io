@@ -2,7 +2,7 @@
 title: "First observation of singly Cabbibo-Supressed decay of $$\\Lambda_c^+\\rightarrow\\Lambda K^{+}\\pi^0$$ and evidence of
 $$\\Lambda_c^+\\rightarrow\\Lambda K^{+}\\pi^+\\pi^-$$"
 collection: publications
-permalink: /publication/2010-10-01-paper-title-number-2
+permalink: /publication/Lc2L+hadron
 #excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
 date: 2023-11-29
 venue: 'Journal 1'
