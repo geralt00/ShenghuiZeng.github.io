@@ -12,8 +12,8 @@ This is the personal Page. I'am a student who involve in Particle Physics now. M
 
 # LHCB EXPERIENCE
 
-- Beauty to open charm
-- CKM angle
+- Beauty to Open Charm
+- CKM Angle
 
 BESIII EXPERIENCE
 ======
@@ -22,5 +22,5 @@ BESIII EXPERIENCE
 
 CEPC EXPERIENCE
 ======
-- Silicon Tracker
+- Development on Silicon Tracker
 
