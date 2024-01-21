@@ -6,3 +6,4 @@ date: 2023-03-13
 venue: 'SoC'
 #paperurl: '[SoC](https://pos.sissa.it/420/069/pdf)'
 ---
+[Soc](https://pos.sissa.it/420/069/pdf)
