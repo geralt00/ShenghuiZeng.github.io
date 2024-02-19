@@ -13,7 +13,7 @@ locale                   : "en-US"
 title                    : "Shenghui Zeng's Home Page"
 title_separator          : "-"
 name                     : &name "Shenghui Zeng"
-description              : &description "This is my page"
+description              : &description "CII"
 url                      : https://geralt00.github.io/ShenghuiZeng # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "geralt00/ShenghuiZeng"
@@ -91,7 +91,7 @@ author:
   #pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   #googlescholar    : "http://yourfullgooglescholarurl.com"
   email            :  shenghui.zeng@cern.ch
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+ # researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
  # uri              :
  # bitbucket        :
  # codepen          :
