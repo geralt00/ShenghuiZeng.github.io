@@ -10,17 +10,19 @@ redirect_from:
 
 Welcome to my page! I'm a Particle Physics postgraduate researcher, specializing in flavour physics and detector development. Join me on a journey through the fundamental particles of the universe.
 
+---
+
 # LHCB EXPERIENCE
 
 - Beauty to Open Charm
 - CKM Angle
 
-BESIII EXPERIENCE
-======
+# BESIII EXPERIENCE
+
 - Charmed Baryon
 - Amplitude Analysis
 
-CEPC EXPERIENCE
-======
+# CEPC EXPERIENCE
+
 - Development on Silicon Tracker
 
