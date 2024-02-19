@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-This is the personal Page. I'am a student who involve in Particle Physics now. My interest in focus on flavour physics and i also engage in some detector development.
+Welcome to my page! I'm a Particle Physics postgraduate researcher, specializing in flavour physics and detector development. Join me on a journey through the fundamental particles of the universe.
 
 # LHCB EXPERIENCE
 
