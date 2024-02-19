@@ -3,9 +3,10 @@ title: "First observation of singly Cabbibo-Suppressed decay of $$\\Lambda_c^+\\
 $$\\Lambda_c^+\\rightarrow\\Lambda K^{+}\\pi^+\\pi^-$$"
 collection: publications
 permalink: /publication/Lc2L+hadron
-date: 2024-1-29
+date: 2024-2-7
 venue: 'Physics Review D'
-paperurl: 'https://arxiv.org/pdf/2311.12903.pdf'
+paperurl: 'https://journals.aps.org/prd/abstract/10.1103/PhysRevD.109.032003'
+
 ---
 
-[Download paper here](https://arxiv.org/pdf/2311.12903.pdf)
+[Download paper here]([https://journals.aps.org/prd/abstract/10.1103/PhysRevD.109.032003])
