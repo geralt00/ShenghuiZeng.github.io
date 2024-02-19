@@ -9,4 +9,4 @@ venue: 'Physics Review D'
 
 ---
 
-[Download paper here]([https://journals.aps.org/prd/abstract/10.1103/PhysRevD.109.032003])
+[PHYSICAL REVIEW D 109, 032003 (2024)]([https://journals.aps.org/prd/abstract/10.1103/PhysRevD.109.032003])
